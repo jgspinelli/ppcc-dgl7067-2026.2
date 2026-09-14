@@ -1,0 +1,22 @@
+ESCALA GEOCINÉFILA
+===================
+
+Arquivos:
+- app.py
+- imagens/sobre_o_programa.png
+
+Como executar no Windows:
+1. Extraia esta pasta para um local de sua preferência.
+2. Abra o Prompt de Comando dentro da pasta.
+3. Execute:
+   py -3.10 -m streamlit run app.py
+4. Abra http://localhost:8501
+
+Requisito:
+- Python 3.10
+- Streamlit 1.63.0 ou versão compatível
+
+A imagem incluída é usada somente na seção "Sobre a Escala Geocinéfila".
+
+
+Atualização: a interface inclui uma aba "ACESSO AO CÓDIGO FONTE", reservada para o futuro link do repositório GitHub e/ou publicação no Streamlit.
