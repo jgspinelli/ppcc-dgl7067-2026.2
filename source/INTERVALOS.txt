@@ -1,0 +1,203 @@
+INTERVALOS = [
+    # Éon Hadeano
+    {
+        "inicio": 4540.0,
+        "fim": 4031.0,
+        "éon": "Hadeano",
+        "era": "—",
+        "período": "—",
+    },
+
+    # Éon Arqueano
+    {
+        "inicio": 4031.0,
+        "fim": 3600.0,
+        "éon": "Arqueano",
+        "era": "Eoarqueano",
+        "período": "—",
+    },
+    {
+        "inicio": 3600.0,
+        "fim": 3200.0,
+        "éon": "Arqueano",
+        "era": "Paleoarqueano",
+        "período": "—",
+    },
+    {
+        "inicio": 3200.0,
+        "fim": 2800.0,
+        "éon": "Arqueano",
+        "era": "Mesoarqueano",
+        "período": "—",
+    },
+    {
+        "inicio": 2800.0,
+        "fim": 2500.0,
+        "éon": "Arqueano",
+        "era": "Neoarqueano",
+        "período": "—",
+    },
+
+    # Éon Proterozoico
+    # Os períodos abaixo seguem as subdivisões cronológicas usadas pela ICS.
+    {
+        "inicio": 2500.0,
+        "fim": 2300.0,
+        "éon": "Proterozoico",
+        "era": "Paleoproterozoico",
+        "período": "Sideriano",
+    },
+    {
+        "inicio": 2300.0,
+        "fim": 2050.0,
+        "éon": "Proterozoico",
+        "era": "Paleoproterozoico",
+        "período": "Riaciano",
+    },
+    {
+        "inicio": 2050.0,
+        "fim": 1800.0,
+        "éon": "Proterozoico",
+        "era": "Paleoproterozoico",
+        "período": "Orosiriano",
+    },
+    {
+        "inicio": 1800.0,
+        "fim": 1600.0,
+        "éon": "Proterozoico",
+        "era": "Paleoproterozoico",
+        "período": "Estateriano",
+    },
+    {
+        "inicio": 1600.0,
+        "fim": 1400.0,
+        "éon": "Proterozoico",
+        "era": "Mesoproterozoico",
+        "período": "Calimiano",
+    },
+    {
+        "inicio": 1400.0,
+        "fim": 1200.0,
+        "éon": "Proterozoico",
+        "era": "Mesoproterozoico",
+        "período": "Ectasiano",
+    },
+    {
+        "inicio": 1200.0,
+        "fim": 1000.0,
+        "éon": "Proterozoico",
+        "era": "Mesoproterozoico",
+        "período": "Esteniano",
+    },
+    {
+        "inicio": 1000.0,
+        "fim": 720.0,
+        "éon": "Proterozoico",
+        "era": "Neoproterozoico",
+        "período": "Toniano",
+    },
+    {
+        "inicio": 720.0,
+        "fim": 635.0,
+        "éon": "Proterozoico",
+        "era": "Neoproterozoico",
+        "período": "Criogeniano",
+    },
+    {
+        "inicio": 635.0,
+        "fim": 538.8,
+        "éon": "Proterozoico",
+        "era": "Neoproterozoico",
+        "período": "Ediacarano",
+    },
+
+    # Éon Fanerozoico — Paleozoico
+    {
+        "inicio": 538.8,
+        "fim": 486.85,
+        "éon": "Fanerozoico",
+        "era": "Paleozoico",
+        "período": "Cambriano",
+    },
+    {
+        "inicio": 486.85,
+        "fim": 443.1,
+        "éon": "Fanerozoico",
+        "era": "Paleozoico",
+        "período": "Ordoviciano",
+    },
+    {
+        "inicio": 443.1,
+        "fim": 419.6,
+        "éon": "Fanerozoico",
+        "era": "Paleozoico",
+        "período": "Siluriano",
+    },
+    {
+        "inicio": 419.6,
+        "fim": 358.9,
+        "éon": "Fanerozoico",
+        "era": "Paleozoico",
+        "período": "Devoniano",
+    },
+    {
+        "inicio": 358.9,
+        "fim": 298.9,
+        "éon": "Fanerozoico",
+        "era": "Paleozoico",
+        "período": "Carbonífero",
+    },
+    {
+        "inicio": 298.9,
+        "fim": 251.9,
+        "éon": "Fanerozoico",
+        "era": "Paleozoico",
+        "período": "Permiano",
+    },
+
+    # Fanerozoico — Mesozoico
+    {
+        "inicio": 251.9,
+        "fim": 201.4,
+        "éon": "Fanerozoico",
+        "era": "Mesozoico",
+        "período": "Triássico",
+    },
+    {
+        "inicio": 201.4,
+        "fim": 143.1,
+        "éon": "Fanerozoico",
+        "era": "Mesozoico",
+        "período": "Jurássico",
+    },
+    {
+        "inicio": 143.1,
+        "fim": 66.0,
+        "éon": "Fanerozoico",
+        "era": "Mesozoico",
+        "período": "Cretáceo",
+    },
+
+    # Fanerozoico — Cenozoico
+    {
+        "inicio": 66.0,
+        "fim": 23.04,
+        "éon": "Fanerozoico",
+        "era": "Cenozoico",
+        "período": "Paleógeno",
+    },
+    {
+        "inicio": 23.04,
+        "fim": 2.58,
+        "éon": "Fanerozoico",
+        "era": "Cenozoico",
+        "período": "Neógeno",
+    },
+    {
+        "inicio": 2.58,
+        "fim": 0.0,
+        "éon": "Fanerozoico",
+        "era": "Cenozoico",
+        "período": "Quaternário",
+    },
+]
