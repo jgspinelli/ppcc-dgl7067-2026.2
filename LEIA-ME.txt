@@ -1,0 +1,26 @@
+PPCC DE PALEONTOLOGIA
+===================
+
+Arquivos:
+- app.py
+- imagens/sobre_o_programa.png
+- imagens/banner cabeçalho.png
+- imagens/refs/ versão raw das imagens utilizadas para montagem
+- source/ arquivos utilizados para a realização do programa
+
+COMO EXECUTAR NO WINDOWS:
+1. Extraia esta pasta para um local de sua preferência.
+2. Abra o Prompt de Comando dentro da pasta.
+3. Execute:
+   py -3.10 -m streamlit run app.py
+4. Abra http://localhost:8501
+
+Requisito:
+- Python 3.10
+- Streamlit 1.63.0 ou versão compatível
+
+A imagem incluída é usada somente na seção "Sobre a PPCC".
+
+
+Acesso ao código por completo:
+https://github.com/jgspinelli/ppcc-dgl7067-2026.2
